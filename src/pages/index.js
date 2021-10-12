@@ -23,7 +23,7 @@ export default function IndexPage() {
     <div className={parent}>
       { showImage && <StaticImage
         className={marsel}
-        src="../images/marsel.jpg"
+        src="../images/marsel.png"
         alt="screaming marsel"
         placeholder="dominantColor"
       />}
